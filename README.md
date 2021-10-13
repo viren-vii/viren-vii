@@ -22,11 +22,10 @@
 </p>
 
 
-<p>
+<p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=viren-vii&show_icons=true&&theme=dark&&hide_border=false&&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats" />
+  <br><br>
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=viren-vii&&hide_border=false&&theme=dark&&show_icons=true" />
-</p>
-
-<p>
+  <br><br>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=viren-vii&show_icons=true&locale=en&layout=compact&theme=dark" alt="viren-vii" />
 </p>
